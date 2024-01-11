@@ -21,8 +21,13 @@ public class Program {
 
         String reponseUtilisateurRejouer;
         Scanner premiereReponse = new Scanner(System.in);
+
+        String panneau = "°º¤ø,¸¸,ø¤º°`°º¤ø,¸,ø¤°º¤ø,¸¸,ø¤º°`\nBienvenue au Casino de Céladopole !\n°º¤ø,¸¸,ø¤º°`°º¤ø,¸,ø¤°º¤ø,¸¸,ø¤º°`";
+
+        System.out.println("\n\n" + panneau + "\n\n");
+
         System.out.println("Vous avez :" + recap.getCoins() + " jetons.");
-        System.out.println("Bienvenue !!! voulez vous jouer ? O/N");
+        System.out.println("Voulez vous jouer ? O/N");
         String reponseUtilisateur = premiereReponse.nextLine();
 
         boolean continuerPartie = true;
