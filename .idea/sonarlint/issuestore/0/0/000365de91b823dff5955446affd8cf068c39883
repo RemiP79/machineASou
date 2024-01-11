@@ -1,0 +1,38 @@
+
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÆôèÕùÿÿÿÿ8·Û²½Ï1
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÆôèÕùÿÿÿÿ8¸Û²½Ï1
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÆôèÕùÿÿÿÿ8¸Û²½Ï1
+r	java:S117#"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ôã“æùÿÿÿÿ8üð³½Ï1
+l	java:S117+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÄøŒ{8üð³½Ï1
+m	java:S1173"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãë†8ýð³½Ï1
+n	java:S101
+"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ŽþÇüÿÿÿÿ8Ñ¼±½Ï1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ó„„ùÿÿÿÿ8Ò¼±½Ï1
+x	java:S116"WRename this field "games_played" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹’íþÿÿÿÿ8ÇÂ´½Ï1
+u	java:S116"TRename this field "games_won" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß­¦³þÿÿÿÿ8ÇÂ´½Ï1
+q	java:S116"VRename this field "coins_spent" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«Øž8ÇÂ´½Ï1
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µá›ûÿÿÿÿ8Œñ³½Ï1
+o	java:S100#"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ôã“æùÿÿÿÿ8ñ³½Ï1
+j	java:S100'"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Øè«…8ñ³½Ï1
+i	java:S100+"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÄøŒ{8ñ³½Ï1
+o	java:S100/"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èêÕ²ûÿÿÿÿ8ñ³½Ï1
+j	java:S1003"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãë†8‘ñ³½Ï1
+[
+java:S1854L">Remove this useless assignment to local variable "coinsSpent".(¯¥³¬8þˆÓ½Ï1
+Y
+java:S1854K"<Remove this useless assignment to local variable "gamesWon".(ÁÈ·ç8þˆÓ½Ï1
+a
+java:S1854J"?Remove this useless assignment to local variable "gamesPlayed".(–Áå¥ýÿÿÿÿ8þˆÓ½Ï1
+V
+java:S1854I"9Remove this useless assignment to local variable "coins".(äãœÁ8þˆÓ½Ï1
+V
+java:S1117I"9Rename "coins" which hides the field declared at line 11.(äãœÁ8ˆ‰Ó½Ï1
+G
+java:S1481I"*Remove this unused "coins" local variable.(äãœÁ8‹‰Ó½Ï1
+R
+java:S1481J"0Remove this unused "gamesPlayed" local variable.(–Áå¥ýÿÿÿÿ8‹‰Ó½Ï1
+J
+java:S1481K"-Remove this unused "gamesWon" local variable.(ÁÈ·ç8Œ‰Ó½Ï1
+L
+java:S1481L"/Remove this unused "coinsSpent" local variable.(¯¥³¬8Œ‰Ó½Ï1
+G	java:S106Q"+Replace this use of System.out by a logger.(—¬Û•8Œ‰Ó½Ï1

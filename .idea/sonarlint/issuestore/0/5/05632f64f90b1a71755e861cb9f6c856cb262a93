@@ -1,0 +1,42 @@
+
+„
+java:S1192ò"aDefine a constant instead of duplicating this literal "Vous n'avez pas marquÃ© de point" 3 times.(Ğ‰íöşÿÿÿÿ8›š˜ÈÏ1
+Y
+java:S4973K"<Strings and Boxed types should be compared using "equals()".(«à¡ƒ8Ÿš˜ÈÏ1
+Y
+java:S4973K"<Strings and Boxed types should be compared using "equals()".(«à¡ƒ8 š˜ÈÏ1
+Y
+java:S4973i"<Strings and Boxed types should be compared using "equals()".(Áßµ™8¡š˜ÈÏ1
+Y
+java:S4973i"<Strings and Boxed types should be compared using "equals()".(Áßµ™8¢š˜ÈÏ1
+_
+java:S4973ˆ"<Strings and Boxed types should be compared using "equals()".(ô†Éúÿÿÿÿ8¤š˜ÈÏ1
+_
+java:S4973ˆ"<Strings and Boxed types should be compared using "equals()".(ô†Éúÿÿÿÿ8§š˜ÈÏ1
+Z
+java:S4973¦"<Strings and Boxed types should be compared using "equals()".(»Ì£ö8§š˜ÈÏ1
+Z
+java:S4973¦"<Strings and Boxed types should be compared using "equals()".(»Ì£ö8§š˜ÈÏ1
+Y
+java:S4973Å"<Strings and Boxed types should be compared using "equals()".(ÜÉú+8§š˜ÈÏ1
+Y
+java:S4973Å"<Strings and Boxed types should be compared using "equals()".(ÜÉú+8§š˜ÈÏ1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ó„„ùÿÿÿÿ8©š˜ÈÏ1
+G	java:S106?"+Replace this use of System.out by a logger.(„ê®á8„›˜ÈÏ1
+L	java:S106A"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8…›˜ÈÏ1
+C	java:S131L""Add a default case to this switch.(åëæÃüÿÿÿÿ8‰›˜ÈÏ1
+C	java:S131j""Add a default case to this switch.(œíÇ§ÿÿÿÿÿ8›˜ÈÏ1
+?	java:S131‰""Add a default case to this switch.(äÁÀ¨8›˜ÈÏ1
+?	java:S131§""Add a default case to this switch.(äÁÀ¨8“›˜ÈÏ1
+M	java:S106ë"+Replace this use of System.out by a logger.(Àî¨­øÿÿÿÿ8›˜ÈÏ1
+F	java:S108ğ")Either remove or fill this block of code.(…Ó»Å8Ÿ›˜ÈÏ1
+M	java:S106ò"+Replace this use of System.out by a logger.(Ğ‰íöşÿÿÿÿ8Ÿ›˜ÈÏ1
+F	java:S108÷")Either remove or fill this block of code.(µêÊ¬8¡›˜ÈÏ1
+M	java:S106ù"+Replace this use of System.out by a logger.(Ğ‰íöşÿÿÿÿ8¡›˜ÈÏ1
+K	java:S108ş")Either remove or fill this block of code.(€Øìûùÿÿÿÿ8¢›˜ÈÏ1
+M	java:S106€"+Replace this use of System.out by a logger.(Ğ‰íöşÿÿÿÿ8£›˜ÈÏ1
+H	java:S106…"+Replace this use of System.out by a logger.(ì–¶8¦›˜ÈÏ1
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8­‹µÈÏ1
+O
+java:S1128"-Remove this unused import 'java.util.Random'.(èøÉ›ùÿÿÿÿ8Û›˜ÈÏ1

@@ -1,0 +1,22 @@
+
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´¢ªÔ8üËºÇÏ1
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´¢ªÔ8üËºÇÏ1
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´¢ªÔ8üËºÇÏ1
+r	java:S117#"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ôã“æùÿÿÿÿ8üËºÇÏ1
+l	java:S117+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÄøŒ{8üËºÇÏ1
+m	java:S1173"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãë†8üËºÇÏ1
+z
+java:S1488H"]Immediately return this expression instead of assigning it to the temporary variable "recap".(ÌÇ¾˜8ıËºÇÏ1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ó„„ùÿÿÿÿ8ıËºÇÏ1
+x	java:S116	"WRename this field "games_played" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹’íşÿÿÿÿ8ƒÌºÇÏ1
+u	java:S116
+"TRename this field "games_won" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß­¦³şÿÿÿÿ8ƒÌºÇÏ1
+q	java:S116"VRename this field "coins_spent" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«Ø8ƒÌºÇÏ1
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µá›ûÿÿÿÿ8†ÌºÇÏ1
+o	java:S100#"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ôã“æùÿÿÿÿ8†ÌºÇÏ1
+j	java:S100'"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Øè«…8†ÌºÇÏ1
+i	java:S100+"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÄøŒ{8†ÌºÇÏ1
+o	java:S100/"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èêÕ²ûÿÿÿÿ8†ÌºÇÏ1
+j	java:S1003"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãë†8‡ÌºÇÏ1
+c
+java:S1075M"ARefactor your code to get this URI from a customizable parameter.(ÍÕõêûÿÿÿÿ8ÌºÇÏ1
